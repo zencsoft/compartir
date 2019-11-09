@@ -1,0 +1,27 @@
+
+
+*
+{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	text-decoration: none;
+}
+
+h1
+{
+	margin: 120px 0px;
+}
+
+p
+{
+	font-size: 20px;
+	margin: 120px 0px;
+}
+
+.imagenPrincipal
+{
+	width: 200px;
+	height: 200px;
+}
+
